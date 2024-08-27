@@ -1,0 +1,37 @@
+.main{
+  width:60%;
+  margin:auto;
+  margin-top:50px;
+  height:auto;
+  /* background-color:red; */
+}
+
+
+.heading{
+  font-family: "Open Sans", sans-serif;
+  font-size:45px;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.heading1{
+  font-family: "Open Sans", sans-serif;
+  font-size:30px;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.content{
+  font-family: "Open Sans", sans-serif;
+  margin-left:40px;
+  font-size:20px;
+  margin-bottom:50px;
+}
+.greenSpan{
+  color:#24b224;
+}
+.footer{
+  background-color: #24b224;
+  width:100%;
+  height:auto;
+  color:white;
+}

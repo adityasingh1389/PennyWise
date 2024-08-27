@@ -1,0 +1,35 @@
+html,body{
+  margin:0;
+  padding:0
+}
+
+.topBar{
+  height:75px;
+  width:100%;
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+  background-color:#24b224;
+  margin:0;
+  border:0
+}
+
+.Logo{
+  height:50px;
+  width:60px;
+  margin:25px;
+}
+
+.navBar{
+  list-style:none;
+  display:flex;
+}
+.navElement{
+  padding:30px;
+  font-size:18px;
+  font-family: "Open Sans", sans-serif;
+}
+.navElement1{
+  text-decoration:none;
+  color:white;
+}

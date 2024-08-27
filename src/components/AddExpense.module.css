@@ -1,0 +1,57 @@
+.headingex{
+  font-size:40px;;
+  text-align:center;
+  width: 100%;;
+  margin-bottom:50px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.mainContent{
+  width:800px;
+  height:500px;;
+  background-color:rgb(229, 234, 229);
+  margin:auto;
+  margin-top:30px;
+  margin-bottom:50px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-radius:10px;
+}
+
+.Label{
+  font-size:20px;
+  color:#3b3d3b;
+  font-family: "Open Sans", sans-serif;
+}
+
+.submitBtn{
+  background-color: #24b224;
+  padding: 10px;
+  margin:5px;
+  color: white;
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 10px;
+  border:none;
+  text-decoration: none;
+  margin-top:50px;
+}
+
+.msg{
+  color:#24b224;
+  font-family: "Open Sans", sans-serif;
+  font-weight:500;
+  margin-top:10px;
+}
+
+.heading{
+  font-size:35px;;
+  text-align:center;
+  width: 40%;;
+  margin-bottom:50px;
+  font-family: "Open Sans", sans-serif;
+}
+.name{
+  color:#24b224;
+}

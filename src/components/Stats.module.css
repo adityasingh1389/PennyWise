@@ -1,0 +1,38 @@
+.expenseHeading{
+  font-size: 29px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+
+.Stats{
+  /* background-color:rgb(221, 225, 222); */
+  height:200px;
+  width:500px;
+  margin:auto;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content: center;
+}
+
+.stat{
+  width:80%;
+  display:flex;
+  justify-content:space-between;
+}
+
+.label{
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+.chart{
+  width:200px;
+  background-color:rgb(221, 225, 222);
+  padding:5px;
+  height:12px;
+}
+
+.greenPart{
+  height:12px;
+  background-color:#24b224c6;
+}

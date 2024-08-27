@@ -1,0 +1,76 @@
+.mainContent{
+  height:400px;
+  background-color:rgb(229, 234, 229);
+  width:600px;
+  margin:auto;
+  padding:20px;
+  border-radius:10px;
+}
+
+.hr{
+  margin:20px;
+}
+
+.heading{
+  text-align:center;;
+  width:100%;
+  font-size:35px;
+  margin-top:50px;
+  margin-bottom:50px;
+  font-family: "Open Sans", sans-serif;
+}
+.green{
+  color:#24b224
+}
+
+.Label{
+  font-size:20px;
+  color:#3b3d3b;
+  font-family: "Open Sans", sans-serif;
+  margin:15px;
+
+}
+
+.adibtn{
+  background-color: #24b224;
+  padding: 10px;
+  margin-left:50px;;
+  color: white;
+  font-size: 12px;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 10px;
+  border:none;
+  text-decoration: none;
+}
+.stats{
+  margin-left:30px;
+  padding:30px;
+}
+
+.greenAns{
+  color:#24b224;
+  font-weight:700;
+  margin-left:10px;
+}
+
+.btn{
+  background-color: #24b224;
+  padding: 10px;
+  margin:auto;
+  color: white;
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 10px;
+  border:none;
+  text-decoration: none;
+}
+.addExpense {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Adjust as needed for spacing */
+}
+
+
+.buttonExpense:hover {
+  background-color: #45a049; /* Example hover color */
+}
